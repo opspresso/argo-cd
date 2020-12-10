@@ -12,7 +12,7 @@ docker pull opspresso/argo-cd
 ## version
 
 ```
-ENV VERSION v1.8.1
+ENV VERSION v1.7.11
 ```
 
 ## latest
